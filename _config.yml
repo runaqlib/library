@@ -20,21 +20,21 @@ source-code: https://github.com/runaqlib/library
 # title of site appears in banner
 title: Runakunaq Bibliotecanku
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: The People's Library 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Runakunaq Bibliotecanku is a collection of Quechua and Andean-centered open access materials."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Alia Warsco
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: Print Material-CSV Friendly
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -50,10 +50,10 @@ metadata: demo-compoundobjects-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Center for Latin American and Caribbean Studies at NYU"
+organization-link: https://as.nyu.edu/research-centers/clacs.html
+organization-logo-banner: https://s18798.pcdn.co/colombianstudiesinitiative/wp-content/uploads/sites/20879/2021/08/CLACS_black-horizontal-300x187.png
+organization-logo-nav: https://pbs.twimg.com/profile_images/1623486449583628290/Piswbme2_400x400.jpg
 
 ##########
 # GOOGLE SERVICES [optional!]
