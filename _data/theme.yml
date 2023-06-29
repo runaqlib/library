@@ -92,7 +92,7 @@ navbar-background: bg-light
 # BOOTSWATCH THEMES [optional!]
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Choose from: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: litera # leave blank or comment out for plain bootstrap
+bootswatch: journal # leave blank or comment out for plain bootstrap
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
@@ -107,7 +107,7 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # find the names on the BI icons page, e.g. file-image
 #
 # icons: 
-#   icon-image: book
+#   icon-image: image
 #   icon-audio: soundwave
 #   icon-video: film
 #   icon-pdf: file-pdf
@@ -115,5 +115,5 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   icon-panorama: image-alt
 #   icon-compound-object: collection 
 #   icon-multiple: postcard
-#   icon-default: file-earmark # fall back icon
+#   icon-default: book # fall back icon
 #   icon-back-to-top: arrow-up-square
