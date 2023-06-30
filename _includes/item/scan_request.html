@@ -1,0 +1,19 @@
+<form action="process_request.php" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+  
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+  
+    <label for="scan-request">Are you requesting a scan?</label>
+    <input type="checkbox" id="scan-request" name="scan-request">
+  
+    <label for="pages-requested">What pages do you need? (If full book, please write 'full book'):</label>
+    <textarea id="pages-requested" name="pages-requested"></textarea>
+  
+    <label for="purpose">For what purpose will you use the scans?</label>
+    <input type="text" id="purpose" name="purpose">
+  
+    <input type="submit" value="Submit">
+  </form>
+  

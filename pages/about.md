@@ -7,27 +7,22 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+![Runakunaq Bibliotecanku Logo](https://i.ibb.co/f2SQm45/logo-runakunaq.png)
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+## About Runakunaq Bibliotecanku
 
-## About CollectionBuilder CSV
+Runakunaq Bibliotecanku is in early stages of development! If you would like to report a bug, suggest a new resource, or contribute in any way, please contact [Alía (aliawarsco@nyu.edu)](mailto:aliawarsco@nyu.edu).
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Runakunaq Bibliotecanku (The People's Library) was created in 2023 using materials from New York University's [Center for Latin American and Caribbean Studies](https://as.nyu.edu/research-centers/clacs.html) Quechua program. The project is created and maintained by [Alía Warsco](aliawars.co), and is further supported by the [Runasimi Outreach Committe](https://www.instagram.com/roc_nyu/?hl=en).
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+This online library and archive preserves and provides access to books from a variety of topics, including Andean History and Worldwide Indigenous Studies, as well as poetry, magazines, and photography books. Additionally, we provide a variety of language learning resources to assist any Quechua-language learners in reaching their goals. 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+While scans of some materials are available upon request, we are hoping to work with authors and copyright holders to operate under Indigenous Data Sovergneity guidelines to ensure protection for authors and their work. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
