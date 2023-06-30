@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: http://runaqlib.hosting.nyu.edu/
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /bibliotecanku
+baseurl: 
 # location of code, the full url to your github repository
 source-code: https://github.com/runaqlib/library
 
@@ -23,9 +23,9 @@ title: Runakunaq Bibliotecanku
 tagline: The People's Library 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Runakunaq Bibliotecanku is a collection of Quechua and Andean-centered open access materials."
+description: "Runakunaq Bibliotecanku is a collection of Quechua and Andean-centered materials."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: quechua;runasimi;andean studies
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Alia Warsco
 
