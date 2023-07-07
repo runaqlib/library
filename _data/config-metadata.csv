@@ -1,8 +1,8 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
-year_published,Date Created,,DCTERMS.date,dateCreated
-tags,Tags,,DCTERMS.description,description
+date,Date Created,,DCTERMS.date,dateCreated
+tags,Tags,true,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
 location,Country of Publication,true,,contentLocation
 identifier,ISBN/Identifier
