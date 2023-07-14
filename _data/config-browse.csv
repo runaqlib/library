@@ -3,4 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
-identifier,,,true,Identifier
+language,,true
+tags,,true
